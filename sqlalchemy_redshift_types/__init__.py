@@ -18,3 +18,6 @@ Timestamp = sa.TIMESTAMP
 
 # Boolean Type
 Boolean = sa.Boolean
+
+# CustomTypes
+Uuid = sa.String(36)
