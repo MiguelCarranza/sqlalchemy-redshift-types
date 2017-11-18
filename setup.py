@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(name='sqlalchemy-redshift-types',
       version='0.1',
       description='Wrapper to only include SQLAlchemy types supported by Redshift',
-      url='http://github.com/MiguelCarranza',
+      url='https://github.com/MiguelCarranza/sqlalchemy-redshift-types',
       author='Miguel Carranza',
       author_email='miguel@miguelcarranza.com',
       license='MIT',
